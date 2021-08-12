@@ -1,0 +1,10 @@
+# Служебные каталоги
+_Reports/
+_ErrorImage/
+
+# Файл статуса прохождения теста
+BuildStatus.log
+
+# Файл настроек
+VAParams.json
+
